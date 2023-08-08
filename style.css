@@ -87,3 +87,9 @@
     text-decoration: underline;
   }
   
+  @media (max-width:600px)  {
+    body{
+        
+        color: #6c63ff
+    }
+  }
